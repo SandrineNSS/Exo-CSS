@@ -1,5 +1,5 @@
 # Exo-CSS
-Animation texte clignotante lettre par lettre
+Animation texte clignotant lettre par lettre
 
 --------
 
